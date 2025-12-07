@@ -1,9 +1,9 @@
 {
   "greeting": "好久不見啦！",
   "name": "小劉",
-  "greetingText": "很高興你點開這個網站。",
+  "greetingText": "很高興你點開這個網站，希望你會喜歡這個小小的驚喜！",
   "wishText": "這一封快樂祝福，無論多久都可以打開！",
-  "imagePath": "img/lty.png",
+  "imagePath": "./img/lty.jpg",
   "text1": "今天是你的生日，有幾句話想送給你",
   "textInChatBox": "「十年樹木，百年樹人」，再80年就可以成為樹人了！",
   "sendButtonLabel": "發送",
@@ -24,7 +24,7 @@
   "fonts": [
     {
       "name": "劉庭妤",
-      "path": "https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&display=swap"
+      "path": "https://fonts.googleapis.com/css2?family=Iansui&family=LXGW+WenKai+Mono+TC&family=Zen+Maru+Gothic&display=swap"
     }
   ]
 }
